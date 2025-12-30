@@ -8,7 +8,7 @@ Sebuah custom key pad yang dibuat untuk membantu memudahkan pekerjaan anda. Macr
 - Arduino pro micro/leonardo
 - Oled display 128x32
 - 6 buah switch
-- [Custom PCB]()
+- [Custom PCB](https://github.com/jesstie/MacroPAD/tree/36e3b80d02b045d26ada42b2be8cc3e8c731a77d/Gerber)
 
 ## Library yang dibutuhkan
 - [HID](https://github.com/NicoHood/HID) - by NicoHood
