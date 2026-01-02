@@ -464,7 +464,7 @@ void loop() {
       display.setCursor(0, 15);
       display.println("OPEN PASSWORD!!");
       display.display();
-      Keyboard.print("rottenegg");
+      Keyboard.print("password");
       delay(50);
       Keyboard.press(KEY_ENTER);
       delay(100);
